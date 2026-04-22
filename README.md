@@ -106,10 +106,6 @@ Choose an option (1-5):
 |  1 | Priya    |  20 | BCA      |
 |  2 | Rahul    |  21 | B.Tech   |
 +----+----------+-----+----------+
-<img width="932" height="808" alt="image" src="https://github.com/user-attachments/assets/ca1bd9f8-5fa6-41fa-9d0b-f305d70dc75d" />
-
-
-<img width="657" height="706" alt="image" src="https://github.com/user-attachments/assets/8dcdc7fc-f0ad-4f48-aa60-96cc31de8f9f" />
 
 
 

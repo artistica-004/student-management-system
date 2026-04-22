@@ -110,7 +110,13 @@ Choose an option (1-5):
 
 
 ```
+## 📸 Screenshots
 
+### Terminal Output
+![Terminal](Terminal.png)
+
+### Database
+![Database](Database.png)
 ---
 
 ## 📝 Assignment Details

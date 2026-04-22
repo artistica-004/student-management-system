@@ -106,6 +106,13 @@ Choose an option (1-5):
 |  1 | Priya    |  20 | BCA      |
 |  2 | Rahul    |  21 | B.Tech   |
 +----+----------+-----+----------+
+## 📸 Screenshots
+
+### Terminal Output
+![Terminal](Terminal.png)
+
+### Database
+![Database](Database.png)
 ```
 
 ---
